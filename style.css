@@ -1,0 +1,151 @@
+/* UNORDERED LIST */
+/* ul {
+  list-style-type: square;
+} */
+
+/* ORDERED LIST */
+/* ol{
+   list-style-type: upper-roman; l
+}  */
+
+/* IMAGES FOR BULLETS */
+/* ul {
+  list-style-image: url(icons8-arrow-20.png);
+}
+li {
+  margin: 10px 0px 0px 0px;
+} */
+
+/* LIST STYLE POSITION */
+/* .illuminations {
+  list-style-position: outside;
+}
+
+.season {
+  list-style-position: inside;
+} */
+
+/* LIST SHORTHAND */
+/* ul {
+  list-style: inside square;
+} */
+
+/* TABLE PROPERTIES */
+/* table { */
+/* width: 600px; */
+/* border: 2px solid red; */
+/* padding: 20px; */
+/* text-transform: capitalize; */
+/* letter-spacing: 2px; */
+/* font-size: xx-small; */
+/* border-top: 1px solid red; */
+/* border-bottom: 1px solid green; */
+/* } */
+
+/* table,
+td,
+th {
+  border: 1px solid red;
+  border-collapse: collapse;
+  text-align: left;
+} */
+
+/* table {
+  background-color: lightblue;
+} */
+
+/* tr:hover {
+  background-color: wheat;
+  cursor: pointer;
+} */
+
+/* td {
+  padding: 20px;
+} */
+/* th {
+  font-weight: bold;
+  color: blue;
+} */
+
+/* .even {
+  background-color: black;
+  color: white;
+} */
+/* td {
+  border: 1px solid #0088dd;
+  padding: 15px;
+}
+table.one {
+  empty-cells: show;
+}
+table {
+  empty-cells: show;
+} */
+
+/* GAPS BETWEEN CELLS */
+/* td {
+  background-color: #0088dd;
+  padding: 15px;
+  border: 2px solid #000000;
+}
+table.one {
+  border-spacing: 5px 15px;
+  border-collapse: collapse;
+} */
+
+/* STYLING FONTS */
+#github {
+  margin-top: 5px;
+}
+
+/* input { */
+/* font-size: xx-large;
+  color: red;
+  background-color: black;
+  color: white; */
+/* border: 2px solid red; */
+/* border-radius: 10px; */
+/* } */
+
+/* input:hover {
+  background-color: lightblue;
+}
+
+input:focus {
+  border: 5px solid green;
+  outline: none;
+} */
+
+/* #email {
+  background-image: url(icons8-arrow-20.png);
+  background-repeat: no-repeat;
+  padding-left: 20px;
+}
+
+#github {
+  background-image: url(icons8-arrow-20.png);
+  background-repeat: no-repeat;
+  padding-left: 20px;
+} */
+
+/* STYLING FIELDSET and LEGENDS */
+/* fieldset {
+  width: 350px;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: right;
+}
+legend {
+  background-color: #efefef;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-align: left;
+  text-transform: uppercase;
+} */
+
+/* CURSOR STYLES */
+#submit-btn:hover {
+  cursor: wait;
+}
